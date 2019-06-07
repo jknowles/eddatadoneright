@@ -3,6 +3,11 @@ date: "2019-06-01"
 title: Contributors
 ---
 
+The following dedicated professionals gave us their time and expertise to review some of the 
+chapters in this book to help us be better. 
+
+## Contributors
+
 G. Matthew Snodgrass
 
 With a Master’s in Statistics and a PhD in Public Policy and Management from Carnegie Mellon, G.
