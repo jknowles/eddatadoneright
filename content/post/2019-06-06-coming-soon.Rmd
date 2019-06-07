@@ -1,0 +1,21 @@
+---
+title: Coming Soon!
+author: ~
+date: '2019-06-06'
+slug: coming-soon
+categories: []
+tags: []
+---
+
+We will have some interesting guides here soon. 
+
+```{r}
+2+2
+```
+
+And this is even more fun:
+
+```{r}
+plot(rnorm(100))
+```
+
