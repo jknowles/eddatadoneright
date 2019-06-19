@@ -3,7 +3,7 @@ date: "2019-06-01"
 title: About the Authors
 ---
 
-Wendy I. Geller
+### Wendy I. Geller
 
 As the Director of Analysis & Data Management Division at the Vermont Agency of Education (AOE), my
 Work Family of Data Scientists and I collect and maintain the mission critical data assets of the
@@ -14,9 +14,8 @@ My Division serves as a centralized resource to the AOE where we lead, partner w
 and execute on the analytic activities of the institution as well as plan, develop, and manage the
 data governance program and the business side of the DataOps continuum.
 
-I completed my Ph.D. (2011) in sociology at the National University of Ireland Maynooth
-(www.nuim.ie) where I was a doctoral fellow at that National Institute for Regional and Spatial
-Analysis (www.nuim.ie/nirsa). My dissertation findings highlighted shifting demographics in
+I completed my Ph.D. (2011) in sociology at the [National University of Ireland Maynooth](www.nuim.ie) where I was a doctoral fellow at that [National Institute for Regional and Spatial
+Analysis](www.nuim.ie/nirsa). My dissertation findings highlighted shifting demographics in
 education arenas and labor markets internationally, specific education orientations occurring across
 cultures, and presented thoughts on the social and spatial forces surrounding rural community
 viability.
@@ -30,7 +29,7 @@ My specialties include DataOps generally, data governance, data privacy, applied
 evaluation, social policy, management, and developing functional relationships with
 IT/kind-of-being-part-of-IT-but-not-really.
 
-Dorothyjean (DJ) Cratty
+### Dorothyjean (DJ) Cratty
 
 As an independent research consultant, I conduct applied student-level research for and with state
 and district agencies, policymakers, and stakeholders, and help states and districts develop their
@@ -55,12 +54,13 @@ state workers’ compensation reforms, CTE and adult education programs. Prior t
 with state and district administrative data, I did applied research with survey data for various
 countries and sectors as an economist at the World Bank.
  
-My Duke statewide education research papers with copious data prep and analysis details.
+[My Duke statewide education research papers with copious data prep and analysis details.](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079)
 
 
-Jared Knowles
+### Jared Knowles
 
-I currently serve as the founder and president of Civilytics Consulting LLC, the data science
+I currently serve as the founder and president of [Civilytics Consulting LLC](www.civilytics.com), 
+the data science
 consulting firm I founded in 2016. Civilytics serves clients at all levels of government in policy
 areas such as K-12 education, higher education, policing, and taxation. Before founding Civilytics,
 I worked for 6 years at the Wisconsin Department of Public Instruction. There, I pioneered an
@@ -68,18 +68,17 @@ award-winning machine learning algorithm that is used across the state to help s
 get back on track. Since 2012, this work has been used around the country to improve the accuracy of
 predictive analytics systems in education. 
 
-My work has been published in several peer-reviewed
-journals, including the Journal of Educational Data Mining and Journal of Policy Analysis and
-Management. I received a Ph.D. in Political Science from the University of Wisconsin-Madison in
-2015. My dissertation investigated the untapped democratic potential of school board elections and
-the conditions under which school governance in the United States becomes democratic. 
+My work has been published in several peer-reviewed journals, including the Journal of Educational
+Data Mining and Journal of Policy Analysis and Management. I received a Ph.D. in Political Science
+from the University of Wisconsin-Madison in 2015. My dissertation investigated the untapped
+democratic potential of school board elections and the conditions under which school governance in
+the United States becomes democratic. You can read all of this work [here](https://www.jaredknowles.com/phd-research).
 
-Now, through
-Civilytics, my work focuses on building the capacity of public sector partners to sustain analytic
-products after the initial work. By using open source software and open data sources, providing all
-source code and extensive documentation, and excellent training of customers in the product,
-Civilytics ensures that its clients can maintain products developed long after the contract ends.
-This sustainable partnership model is unique, allowing agencies to build lasting organizational
-change. Civilytics approaches projects with a human centered design methodology that creates lasting
-partnerships with clients.
+Now, through Civilytics, my work focuses on building the capacity of public sector partners to
+sustain analytic products after the initial work. By using open source software and open data
+sources, providing all source code and extensive documentation, and excellent training of customers
+in the product, Civilytics ensures that its clients can maintain products developed long after the
+contract ends. This sustainable partnership model is unique, allowing agencies to build lasting
+organizational change. Civilytics approaches projects with a human centered design methodology that
+creates lasting partnerships with clients.
 
