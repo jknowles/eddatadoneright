@@ -7,7 +7,7 @@ education data analyst. You’ve been trained in so many statistical methods, yo
 or Stata, you can adjust standard errors with the best of them -- you’ve got this. Plus, now that
 you are working at an education agency you don’t have to sift through a tedious IRB and data request
 process -- you can get started right away doing powerful analyses that will improve the decision
-making of your agency right away.
+making of your agency.
 
 As you turn on the computer and drink your coffee, you are filled with anticipation. You’ve already
 requested all of the longitudinal assessment data from IT so you can get a jump start. You open your
