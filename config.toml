@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Education Data Done Right"
-theme = "hugo-lithium"
+theme = "hugo-timer"
 googleAnalytics = "UA-53342829-3"
 # disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
