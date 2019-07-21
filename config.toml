@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Education Data Done Right"
-theme = "hugo-lithium"
+theme = "timer-hugo"
 googleAnalytics = "UA-53342829-3"
 # disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -9,35 +9,64 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "Authors"
-    url = "/authors/"
-[[menu.main]]
-    name = "Contributors"
-    url = "/contributors/"
+#[[menu.main]]
+ #   name = "About"
+#    url = "/about/"
+#[[menu.main]]
+#    name = "Authors"
+#    url = "/authors/"
+#[[menu.main]]
+#    name = "Contributors"
+#    url = "/contributors/"
+
+[menu]
+    [[menu.nav]]
+        name = "About"
+        url = "/about/"
+        tags = false
+    [[menu.nav]]
+        name = "Authors"
+        url = "/authors/"
+        tags = false
+    [[menu.nav]]
+        name = "Contributors"
+        url = "/contributors/"
+        tags = false
 
 
 [params]
+    home = "Home"
     description = "Education Data Done Right: A View from the Trenches."
-
+    title   = "Education Data Done Right"
+    tags = false
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
-
+    googleAnalyticsID = "UA-53342829-3"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
-
     # path to the favicon, under "static"
     #favicon = "favicon.ico"
 
-    [params.logo]
+[params.logo]
     url = "logo.png"
     width = 50
     height = 50
     alt = "Logo"
+    
+
+[params.banner]
+    enable = false  
+    
+[params.about]
+        enable  = false
+
+[params.cta]
+    enable = false
+    
+    
+[params.portfolio]
+    enable = false
 

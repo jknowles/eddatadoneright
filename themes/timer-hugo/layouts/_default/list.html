@@ -24,11 +24,6 @@
                                 {{ . }}
                             </span>
                             {{ end }}
-                            {{ with .Params.tags }}
-                            <span>
-                                {{ delimit . ", " }}
-                            </span>
-                            {{ end }}
                         </div>
                         <p>
                             {{ .Summary }}

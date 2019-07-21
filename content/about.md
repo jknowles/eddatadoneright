@@ -1,6 +1,7 @@
 ---
 date: "2019-06-01"
 title: About the Book
+tags: ""
 ---
 
 _Education Data Done Right: Lessons from the Trenches of Applied Data Science_
