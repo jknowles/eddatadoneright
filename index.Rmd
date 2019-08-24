@@ -1,9 +1,0 @@
----
-site: blogdown:::blogdown_site
----
-
-# A Book for You
-
-# A Book about the Hard Work
-
-# A Book You can Use
