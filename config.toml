@@ -53,7 +53,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params.banner]
-    enable = false
+    enable = true
+    bgImage ="banner_meas.jpg"
 
 [params.about]
         enable  = false
