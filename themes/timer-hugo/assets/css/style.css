@@ -288,7 +288,7 @@ a:hover {
 #hero-area {
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   padding: 230px 0;
   color: #fff;
