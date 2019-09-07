@@ -1,23 +1,49 @@
 ---
-date: "2019-06-01"
 title: About the Book
 tags: ""
 ---
 
-_Education Data Done Right: Lessons from the Trenches of Applied Data Science_
+### Education Data Done Right: Lessons from the Trenches of Applied Data Science
+
+<img src="/book_cover.jpg" alt="drawing" width="300" align="center"/>
+
 
 This is a book about the real work of doing applied data analysis in education. 
 
 ### Table of Contents
 
-1. Introduction
-2. Metadata and Business Rules
-3. An Analyst’s Guide to IT
-4. Data Requests: You Can Make Them Useful (we swear)
-5. Politics and Data Driven Decision Making
-6. Moments of Truth: Why Calculating Descriptive Statistics Is Actually Some of the Most Important Work You’ll Do
-7. Applying Tools of the Trade: Descriptive Data Commands in Context
-8. Conclusions
+
+<img src="/chapter_1.png" alt="drawing" width="42" align="left"/>
+
+Introduction
+
+<img src="/chapter_2.png" alt="drawing" width="42" align="left"/>
+
+Metadata and Business Rules
+
+<img src="/chapter_3.png" alt="drawing" width="42" align="left"/>
+
+An Analyst’s Guide to IT
+
+<img src="/chapter_4.png" alt="drawing" width="42" align="left"/>
+
+Data Requests: You Can Make Them Useful (we swear)
+
+<img src="/chapter_5.png" alt="drawing" width="42" align="left"/>
+
+Politics and Data Driven Decision Making
+
+<img src="/chapter_6.png" alt="drawing" width="42" align="left"/>
+
+Moments of Truth: Why Calculating Descriptive Statistics Is Actually Some of the Most Important Work You’ll Do
+
+<img src="/chapter_7.png" alt="drawing" width="42" align="left"/>
+
+Applying Tools of the Trade: Descriptive Data Commands in Context
+
+<img src="/chapter_8.png" alt="drawing" width="42" align="left"/>
+
+Conclusions
 
 ### Who are We and Why this Book?
 

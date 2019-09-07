@@ -2,6 +2,10 @@
 title: Education Data Done Right
 ---
 
+<figure>
+<img src="book_cover.jpg" alt="drawing" width="300" align="center"/>
+</figure>
+
 You. Yes, you there. Isn’t it exciting? You are sitting down at your desk at your new job as an
 education data analyst. You’ve been trained in so many statistical methods, you’re a wizard with R
 or Stata, you can adjust standard errors with the best of them -- you’ve got this. Plus, now that
