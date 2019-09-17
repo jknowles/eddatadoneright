@@ -3,10 +3,26 @@ title: About the Book
 tags: ""
 ---
 
+### Origins
+
+This book came together after a series of conversations among the others (and others) about our 
+frustrations with the lack of information available about how to do the *real work* behind 
+education data analysis. In 2015, we were happy to be invited by the Brown Center Chalkboard at 
+Brookings to discuss those ideas in a series of posts:
+
+- [Helping foster smart data use in a small state](https://www.brookings.edu/blog/brown-center-chalkboard/2015/11/13/helping-foster-smart-data-use-in-a-small-state/)
+- [Measuring inequality in a State Education Agency](https://www.brookings.edu/blog/brown-center-chalkboard/2015/11/04/measuring-inequality-in-a-state-education-agency/)
+- [When using longitudinal data for education research, three heads are better than one](https://www.brookings.edu/blog/brown-center-chalkboard/2015/12/07/when-using-longitudinal-data-for-education-research-three-heads-are-better-than-one/)
+- [State education agencies and researchers as partners in improving student outcomes](https://www.brookings.edu/blog/brown-center-chalkboard/2016/04/20/state-education-agencies-and-researchers-as-partners-in-improving-student-outcomes/)
+
+From these articles, and more conversation, we decided to put together a book that filled what we 
+saw was a real gap in practical advice on how to do the work that needs to get done inside 
+education agencies to turn those many data collections into information that can inform decisions 
+and return value to educators, students, and the public. 
+
 ### Education Data Done Right: Lessons from the Trenches of Applied Data Science
 
 <img src="/book_cover.jpg" alt="drawing" width="300" align="center"/>
-
 
 Across the country hundreds of data scientists and analysts are working for thousands of education agencies trying to help schools, school leaders, and education systems as a whole function more effectively. The work they do is critical to everything from scheduling classes and evaluating programs, to managing enrollments, strategic planning, and making the laws that shape our public education system at large. 
 
