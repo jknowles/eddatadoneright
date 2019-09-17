@@ -5,42 +5,29 @@ title: About the Authors
 
 ### Wendy I. Geller
 
-As the Director of Analysis & Data Management Division at the Vermont Agency of Education (AOE), my
-Work Family of Data Scientists and I collect and maintain the mission critical data assets of the
-institution as we as create, manage, and share data products that enable empirically-based practice
-and policy decision-making.
 
-My Division serves as a centralized resource to the AOE where we lead, partner with external bodies,
-and execute on the analytic activities of the institution as well as plan, develop, and manage the
-data governance program and the business side of the DataOps continuum.
+As Director of the Data Management & Analysis Division, I serve alongside my Work Family of Data Scientists as a centralized resource to the Vermont Agency of Education. My crew collects, stewards, and leverages the institution's critical data assets to create and share data products that enable empirically-based practice and policy decision-making.
 
-I completed my Ph.D. (2011) in sociology at the [National University of Ireland Maynooth](www.nuim.ie) where I was a doctoral fellow at that [National Institute for Regional and Spatial
-Analysis](www.nuim.ie/nirsa). My dissertation findings highlighted shifting demographics in
-education arenas and labor markets internationally, specific education orientations occurring across
-cultures, and presented thoughts on the social and spatial forces surrounding rural community
-viability.
+We lead, partner with external bodies, and execute on the analytic activities of the institution as well as plan, develop, and manage the data governance program and the business side of the DataOps continuum.
 
-Since leaving academia, I've focused on data architecture, data management, data visualization, and
-DataOps generally. I am dedicated to creating the cultural, infrastructural, and operational
-conditions needed to steward and leverage data assets sustainably so as to provide value-added
-analyses in the public sector.
+My Ph.D. (2011) is in sociology from the National University of Ireland Maynooth (www.nuim.ie) where I was a doctoral fellow at the National Institute for Regional and Spatial Analysis (www.nuim.ie/nirsa). My dissertation findings highlighted shifting demographics in education arenas and labor markets internationally, specific education orientations occurring across cultures, and presented thoughts on the social and spatial forces surrounding rural community viability.
 
-My specialties include DataOps generally, data governance, data privacy, applied research, program
-evaluation, social policy, management, and developing functional relationships with
-IT/kind-of-being-part-of-IT-but-not-really.
+Since leaving academia, I’ve dedicated myself to creating the cultural, infrastructural, and operational conditions needed to care for and use data sustainably so as to provide value-added analyses in the public sector.
+
+My specialties include DataOps generally, data governance, data privacy, applied research, program evaluation, social policy, management, and developing functional relationships with IT/kind-of-being-part-of-IT-but-not-really.
 
 ### Dorothyjean (DJ) Cratty
 
 As an independent research consultant, I conduct applied student-level research for and with state
 and district agencies, policymakers, and stakeholders, and help states and districts develop their
-collaborative research programs. I advise states and districts and their university research
+collaborative research programs. I advise states and districts as well as their university research
 partners and grantmaking organizations on collaborative data analytic methods for their researcher
 practitioner partnerships (RPPs). And I conduct research with education data aggregates for national
 organizations, such as EdTrust.
  
 Currently, I lead the education data audit stage of DC’s aspiring collaborative research center,
 with Data Ethics LLC. Previously, at AIR, I led the development of Rhode Island’s cross-sector
-Research Hub. And I built out North Carolina’s cross-sector research capacity as the data and
+Research Hub. In other work, I built out North Carolina’s cross-sector research capacity as the data and
 methods specialist on an interdisciplinary research team at Duke University.
  
 As a program officer for the NCES Statewide Longitudinal Data Systems (SLDS) grant program, I worked
@@ -54,7 +41,7 @@ state workers’ compensation reforms, CTE and adult education programs. Prior t
 with state and district administrative data, I did applied research with survey data for various
 countries and sectors as an economist at the World Bank.
  
-[My Duke statewide education research papers with copious data prep and analysis details.](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079)
+[My Duke statewide education research papers with copious data prep and analysis details are available in the footnotes for those interested.](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079)
 
 
 ### Jared Knowles
