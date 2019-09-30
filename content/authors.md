@@ -18,8 +18,6 @@ My specialties include DataOps generally, data governance, data privacy, applied
 
 ### Dorothyjean (DJ) Cratty
 
-Dorothyjean (DJ) Cratty
-
 Through the nascent [DJC Applied Research LLC](https://www.DJCAppliedResearch.com ) and in partnership with other firms, I conduct research in education, labor, and public economics for and with local and national agencies and organizations, helping them and their stakeholders develop relevant actionable findings. As part of this work, I advise states and districts and their university research partners and grantmaking organizations on collaborative data analytic methods for their researcher practitioner partnerships (RPPs) tailored to their specific data sources and needs. 
 
 Currently, I lead the education data audit and analysis stage of the District of Columbia’s aspiring research collaborative, with Data Ethics LLC. In similar prior work, at AIR, I led the development of Rhode Island’s cross-sector Research Hub. At Duke University, I built out North Carolina’s cross-sector research capacity as the data and methods specialist on an interdisciplinary research team with the statewide data center. As a program officer for the federal Statewide Longitudinal Data Systems (SLDS) grant program, I worked with state agency data and research managers to help develop and share best practices for collaborative cross-sector research. 
