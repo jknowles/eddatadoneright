@@ -18,30 +18,15 @@ My specialties include DataOps generally, data governance, data privacy, applied
 
 ### Dorothyjean (DJ) Cratty
 
-As an independent research consultant, I conduct applied student-level research for and with state
-and district agencies, policymakers, and stakeholders, and help states and districts develop their
-collaborative research programs. I advise states and districts as well as their university research
-partners and grantmaking organizations on collaborative data analytic methods for their researcher
-practitioner partnerships (RPPs). And I conduct research with education data aggregates for national
-organizations, such as EdTrust.
- 
-Currently, I lead the education data audit stage of DC’s aspiring collaborative research center,
-with Data Ethics LLC. Previously, at AIR, I led the development of Rhode Island’s cross-sector
-Research Hub. In other work, I built out North Carolina’s cross-sector research capacity as the data and
-methods specialist on an interdisciplinary research team at Duke University.
- 
-As a program officer for the NCES Statewide Longitudinal Data Systems (SLDS) grant program, I worked
-with state agency data and research managers to help develop and share best practices for applied
-research with administrative data. These practices included crafting research agendas, drafting data
-sharing agreements, documenting data inventories, training analytic staff, and presenting rigorous
-research to lay audiences.
- 
-My training is in labor and public economics. I’ve worked with raw administrative data to research
-state workers’ compensation reforms, CTE and adult education programs. Prior to working primarily
-with state and district administrative data, I did applied research with survey data for various
-countries and sectors as an economist at the World Bank.
- 
-[My Duke statewide education research papers with copious data prep and analysis details are available in the footnotes for those interested.](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079)
+Dorothyjean (DJ) Cratty
+
+Through the nascent [DJC Applied Research LLC](https://www.DJCAppliedResearch.com ) and in partnership with other firms, I conduct research in education, labor, and public economics for and with local and national agencies and organizations, helping them and their stakeholders develop relevant actionable findings. As part of this work, I advise states and districts and their university research partners and grantmaking organizations on collaborative data analytic methods for their researcher practitioner partnerships (RPPs) tailored to their specific data sources and needs. 
+
+Currently, I lead the education data audit and analysis stage of the District of Columbia’s aspiring research collaborative, with Data Ethics LLC. In similar prior work, at AIR, I led the development of Rhode Island’s cross-sector Research Hub. At Duke University, I built out North Carolina’s cross-sector research capacity as the data and methods specialist on an interdisciplinary research team with the statewide data center. As a program officer for the federal Statewide Longitudinal Data Systems (SLDS) grant program, I worked with state agency data and research managers to help develop and share best practices for collaborative cross-sector research. 
+
+My Smith College undergraduate economics thesis studied ten years of state employment and work injury records to assess effects of workers compensation benefit reductions on claims relative to injuries. I completed the PhD economics coursework at the University of Maryland, and left without a dissertation to work as a staff economist for the research division of the World Bank. My country studies there included determining the cause of sudden high dropout rates among extremely poor households and estimating labor productivity costs for war-torn populations. Journal publications include the Economics of Education Review and Economics of Transition.
+
+The focus of much of my research has been on equity of opportunity and resources, with studies specifically designed to answer actionable questions that practitioners, policymakers, and stakeholders ask of the data. These questions of varied access and returns require more nuanced data derivations than are often carried out sufficiently in academic research studies. My direct service to clients is helping them use the empirical facts of their fully prepped and vetted data to qualify existing claims and generate more grounded findings. Some of these detailed data methods and findings papers [available on the SSRN open source site](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079) are found to be useful resources by other state and district data analysts. 
 
 
 ### Jared Knowles
