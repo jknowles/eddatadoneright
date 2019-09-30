@@ -2,6 +2,13 @@
 title: Education Data Done Right
 ---
 
+### Announcements
+
+#### Releasing October 7th, 2019
+
+You can see [the store page on LeanPub in the meantime.](https://leanpub.com/eddatadoneright/)
+
+
 Across the country hundreds of data scientists and analysts are working for thousands of education agencies trying to help schools, school leaders, and education systems as a whole function more effectively. The work they do is critical to everything from scheduling classes and evaluating programs, to managing enrollments, strategic planning, and making the laws that shape our public education infrastructure at large. 
 
 This book is for them. For their work. For the struggle. 
@@ -44,6 +51,3 @@ Welcome.
 We’ve all been there.
 
 Let’s talk about what comes next. 
-
-### Announcements
-
