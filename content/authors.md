@@ -3,8 +3,13 @@ date: "2019-06-01"
 title: About the Authors
 ---
 
+
 ### Wendy I. Geller
 
+<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 40%;">
+    <img src="/w_headshot.png" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 10%; width: auto;">
+    </img>
+</div>
 
 As Director of the Data Management & Analysis Division, I serve alongside my Work Family of Data Scientists as a centralized resource to the Vermont Agency of Education. My crew collects, stewards, and leverages the institution's critical data assets to create and share data products that enable empirically-based practice and policy decision-making.
 
@@ -28,6 +33,12 @@ The focus of much of my research has been on equity of opportunity and resources
 
 
 ### Jared Knowles
+
+
+<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 50%;">
+    <img src="/j_headshot.jpg" alt="team-member" style="display: inline; margin: 0 auto; margin-left: -15%; height: 100%; width: auto;">
+    </img>
+</div>
 
 I currently serve as the founder and president of [Civilytics Consulting LLC](www.civilytics.com), 
 the data science
