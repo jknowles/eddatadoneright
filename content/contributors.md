@@ -40,3 +40,7 @@ focused expertise in implementing proven organizational data governance and data
 Lindsey Brownson
 
 Lindsey is a recent graduate of the Vermont College of Fine Arts MFA in Writing and Publishing program, where she practiced across genres but concentrated in creative non-fiction.  Her final thesis project was a 108-page memoir in essays titled Why Are You So Emo. She was a fiction reader and a member of the copyediting staff for the 2018 edition of Hunger Mountain, VCFA’s annual literary journal. She also had the opportunity to intern at The Wendy Sherman Agency in NYC as a reader for in-process fiction manuscripts being prepared for publication.  She considers it a privilege to have other writers hand their hard work to her with implicit trust, and couldn’t have been more excited to help with this project.
+
+[Nick Maskell](https://www.nickmaskell.com)
+
+Nick is a graphic artist with an associates degree in graphic design, and a bachelors in fine arts. For the last four years he has worked as a full time designer/illustrator at Susi Art, a custom apparel company in Massachusetts. Since graduation, he has worked across multiple platforms on a wide variety of projects ranging from corporate marketing and ad campaigns, to coloring books and birthday invitations. Working with our authors, he designed the EDDR logo and the cover for this book, as well as some of the visual elements within it. If you would like to see more of his work, or are in need of a freelance designer, please visit [nickmaskell.com](https://www.nickmaskell.com) for more details. 
