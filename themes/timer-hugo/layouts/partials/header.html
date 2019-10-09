@@ -9,6 +9,20 @@
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
     
+  {{ if site.GoogleAnalytics }}
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', '{{ site.GoogleAnalytics }}', 'auto');
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+  {{ end }}
+ 
+    
+    
     {{ "<!-- Mobile Specific Metas -->" | safeHTML }}
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, initial-scale=1">
