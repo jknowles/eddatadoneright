@@ -1,4 +1,4 @@
-baseurl = "https://www.eddatadoneright.com"
+baseurl = "https://www.eddatadoneright.com/"
 languageCode = "en-us"
 title = "Education Data Done Right"
 theme = "timer-hugo"
