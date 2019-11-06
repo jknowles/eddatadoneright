@@ -8,7 +8,8 @@
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
-    
+    {{ template "_internal/google_analytics.html" . }}
+<!--    
   {{ if site.GoogleAnalytics }}
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -20,7 +21,7 @@
     </script>
     <script async src="https://www.google-analytics.com/analytics.js"></script>
   {{ end }}
- 
+ --> 
     
     
     {{ "<!-- Mobile Specific Metas -->" | safeHTML }}
