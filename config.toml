@@ -2,7 +2,7 @@ baseurl = "https://www.eddatadoneright.com/"
 languageCode = "en-us"
 title = "Education Data Done Right"
 theme = "timer-hugo"
-googleAnalytics = "UA-53342829-3"
+googleAnalytics = "53342829-3"
 # disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
@@ -44,7 +44,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
-    googleAnalyticsID = "UA-53342829-3"
+    googleAnalyticsID = "53342829-3"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
     # path to the favicon, under "static"
