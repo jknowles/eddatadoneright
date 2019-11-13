@@ -36,6 +36,13 @@ This book is by folks who’ve been agency analysts for folks who are agency ana
 
 And we hope it is just the beginning. 
 
+### Suggested Citation
+
+
+Geller, Wendy, Cratty, Dorothyjean, and Knowles, Jared. 2019. 
+Education Data Done Right: Lessons from the Trenches of Applied Data Science. 
+Victoria. Leanpub. Available online: www.eddatadoneright.com
+
 
 ### Table of Contents
 
