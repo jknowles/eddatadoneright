@@ -23,7 +23,7 @@ My specialties include DataOps generally, data governance, data privacy, applied
 
 ### Dorothyjean (DJ) Cratty
 
-Through the nascent [DJC Applied Research LLC](https://www.DJCAppliedResearch.com ) and in partnership with other firms, I conduct research in education, labor, and public economics for and with local and national agencies and organizations, helping them and their stakeholders develop relevant actionable findings. As part of this work, I advise states and districts and their university research partners and grantmaking organizations on collaborative data analytic methods for their researcher practitioner partnerships (RPPs) tailored to their specific data sources and needs. 
+Through the nascent [DJC Applied Research LLC](https://www.DJCAppliedResearch.com) and in partnership with other firms, I conduct research in education, labor, and public economics for and with local and national agencies and organizations, helping them and their stakeholders develop relevant actionable findings. As part of this work, I advise states and districts and their university research partners and grantmaking organizations on collaborative data analytic methods for their researcher practitioner partnerships (RPPs) tailored to their specific data sources and needs. 
 
 Currently, I lead the education data audit and analysis stage of the District of Columbia’s aspiring research collaborative, with Data Ethics LLC. In similar prior work, at AIR, I led the development of Rhode Island’s cross-sector Research Hub. At Duke University, I built out North Carolina’s cross-sector research capacity as the data and methods specialist on an interdisciplinary research team with the statewide data center. As a program officer for the federal Statewide Longitudinal Data Systems (SLDS) grant program, I worked with state agency data and research managers to help develop and share best practices for collaborative cross-sector research. 
 
@@ -40,20 +40,19 @@ The focus of much of my research has been on equity of opportunity and resources
     </img>
 </div>
 
-I currently serve as the founder and president of [Civilytics Consulting LLC](www.civilytics.com), 
-the data science
-consulting firm I founded in 2016. Civilytics serves clients at all levels of government in policy
-areas such as K-12 education, higher education, policing, and taxation. Before founding Civilytics,
-I worked for 6 years at the Wisconsin Department of Public Instruction. There, I pioneered an
-award-winning machine learning algorithm that is used across the state to help struggling students
-get back on track. Since 2012, this work has been used around the country to improve the accuracy of
-predictive analytics systems in education. 
+I currently serve as the founder and president of 
+[Civilytics Consulting LLC](https://www.civilytics.com), the data science consulting firm I founded in 2016. Civilytics
+serves clients at all levels of government in policy areas such as K-12 education, higher education,
+policing, and taxation. Before founding Civilytics, I worked for 6 years at the Wisconsin Department
+of Public Instruction. There, I pioneered an award-winning machine learning algorithm that is used
+across the state to help struggling students get back on track. Since 2012, this work has been used
+around the country to improve the accuracy of predictive analytics systems in education.
 
 My work has been published in several peer-reviewed journals, including the Journal of Educational
 Data Mining and Journal of Policy Analysis and Management. I received a Ph.D. in Political Science
-from the University of Wisconsin-Madison in 2015. My dissertation investigated the untapped
-democratic potential of school board elections and the conditions under which school governance in
-the United States becomes democratic. You can read all of this work [here](https://www.jaredknowles.com/phd-research).
+from the University of Wisconsin-Madison in 2015. 
+[My dissertation investigated the untapped democratic potential of school board elections](https://www.jaredknowles.com/phd-research) and the conditions under which school 
+governance in the United States becomes democratic. 
 
 Now, through Civilytics, my work focuses on building the capacity of public sector partners to
 sustain analytic products after the initial work. By using open source software and open data
@@ -62,4 +61,3 @@ in the product, Civilytics ensures that its clients can maintain products develo
 contract ends. This sustainable partnership model is unique, allowing agencies to build lasting
 organizational change. Civilytics approaches projects with a human centered design methodology that
 creates lasting partnerships with clients.
-
