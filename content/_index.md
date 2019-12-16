@@ -2,18 +2,15 @@
 title: Education Data Done Right
 ---
 
-### Announcements
+### Buy the Book
 
-#### Available in print
+You can now get a [printed copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
+$15. 
 
-You can now get your very own printed copy of [the book on Amazon.](https://www.amazon.com/dp/1698152310/)
-Pick up a copy today!
+[Get the ebook now.](https://leanpub.com/eddatadoneright/) The ebook is always available 
+in multiple formats, DRM-free, for "pay what you can" with a suggested price of $15. 
 
-
-#### Out Now!
-
-[Get the ebook now.](https://leanpub.com/eddatadoneright/) 
-
+### About EDDR
 
 Across the country hundreds of data scientists and analysts are working for thousands of education agencies trying to help schools, school leaders, and education systems as a whole function more effectively. The work they do is critical to everything from scheduling classes and evaluating programs, to managing enrollments, strategic planning, and making the laws that shape our public education infrastructure at large. 
 

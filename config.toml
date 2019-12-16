@@ -32,6 +32,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         name = "Contributors"
         url = "/contributors/"
         tags = false
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog/"
+        weight  = 5
 
 
 [params]
