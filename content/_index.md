@@ -1,5 +1,6 @@
 ---
 title: Education Data Done Right
+description: "Education Data Done Right - A source for education data analysis, education system reporting and infrastructure."
 ---
 
 ### Buy the Book

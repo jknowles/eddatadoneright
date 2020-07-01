@@ -1,6 +1,10 @@
 ---
 title: About the Book
 tags: ""
+keywords: ["About", "education data", "about data and analysis", "education data analysis",
+"education reporting", "education data systems", "education data infrastructure",
+"administrative data", "U.S.A", "District of Columbia"]
+description: "Learn why education data analysis is useful in reporting on education systems and infrastructure and the benefits it has for educators, students and the public."
 ---
 
 ### Origins
