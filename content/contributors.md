@@ -1,6 +1,7 @@
 ---
 date: "2019-06-01"
 title: Contributors
+description: "Contributors and editors in various educational fields who helped make Education Data Done Right a valuable source for data analysis."
 ---
 
 The following dedicated professionals gave us their time and expertise to review some of the 
