@@ -9,7 +9,7 @@ description: "Meet the data analysts behind Education Data Done Right and view t
 
 ### Wendy I. Geller
 
-<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 40%;">
+<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 10%;">
     <img src="/wendy_g.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 10%; width: auto;">
     </img>
 </div>
@@ -84,7 +84,7 @@ research papers with copious data prep and analysis details.
 
 
 <div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 50%;">
-    <img src="/j_headshot_new.jpg" alt="team-member" style="display: inline; margin: 0 auto; margin-left: -15%; height: 100%; width: auto;">
+    <img src="/j_headshot_new.jpg" alt="team-member" style="display: inline; margin: 0 auto; margin-left: -5%; height: 100%; width: auto;">
     </img>
 </div>
 
@@ -125,7 +125,7 @@ To follow his work, sign up for his monthly newsletter, The Civic Pulse!
 
 
 <div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 50%;">
-    <img src="/lacole_f.jpg" alt="team-member" style="display: inline; margin: 0 auto; margin-left: -15%; height: 100%; width: auto;">
+    <img src="/lacole_f.jpeg" alt="team-member" style="display: inline; margin: 0 auto; margin-left: -15%; height: 100%; width: auto;">
     </img>
 </div>
 
