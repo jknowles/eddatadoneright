@@ -10,6 +10,9 @@ description: "Learn why education data analysis is useful in reporting on educat
 ## Volume 2
 
 
+
+### Excerpt: Introduction
+
 Or welcome in the first place for those of you just joining us. Either way, welcome!
 
 It's been quite eventful since EDDR launched with [Volume I's Lessons from the Trenches of Applied Data Science](https://www.eddatadoneright.com/). In that release we set out to write the field guide we wished we each had in our respective back pockets when we'd started out in the applied analytic environment.  We also wanted to provide a gathering point for all the hardworking, ingenious, altruistic folks out there in the education data space who staff the schools, Local Education Agencies (LEAs), and State Education Agencies (SEAs).  We wanted to give a proverbial talisman of sorts, so those folks could take heart, and know that they're not alone (and neither are you!).  
@@ -24,7 +27,7 @@ It's work that's not coming from the hallowed halls of the academy, but from the
 
 For those of you who've already read volume one and know why you want to keep reading, skip right ahead to the next section.  For those of you who still need to be convinced, please do read on!
 
-## Why you should keep reading this book. 
+### Why you should keep reading this book. 
 
 As you might have gathered from the opening few sections, this book series is different. 
 
@@ -48,7 +51,7 @@ What's important to us is not the extra cup of coffee we might be able to buy so
 
 Use them however you like. All we ask is that you don't redistribute them commercially and that if you use them and like them, please make sure to give us some attributions as authors and maybe drop us a note letting us know how you used them. That's it!
 
-## So, Volume II. Anything Good in Here?
+### So, Volume II. Anything Good in Here?
 
 Yes (well, we think so anyways!). When we started this project, we envisioned it as a three volume series and this right here is volume two. In this release, we're introducing some new voices with the hope that more are encouraged to share their work as a result.  This text shares some great stuff that folks are doing for very average, public sector paychecks sweetened with the knowledge that their work is contributing to a pillar of our practice of self-governance, public education.  
 
@@ -65,6 +68,8 @@ Ellis Ott (Alaska) and DJ Cratty share a thoughtful conversation about transpare
 Finally, we close this edition with some reflections on how the Pandemic has deeply underscored the very real, immediate, and ongoing need for careful data collection, management, and use.  As Wendy recently wrote in a proposal for how to leverage a portion of stimulus funds to future-proof some of Vermont's data infrastructure, [Howard Yonas, MD says, "making decisions without data is called guessing"](https://neurosurgery.uw.edu/news/videos/making-decisions-without-data-called-guessing) and guessing isn't good enough when it comes to the work we need to do to stabilize our education system. We need good data practices, systems, and products to meet the needs of our students and families amidst the emergency, not to mention onwards into the recovery process.
 
 So, with that, read on and welcome to the work! We're there with you, right by your side.
+
+---
 
 ## Volume 1
 

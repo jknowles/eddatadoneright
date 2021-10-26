@@ -3,6 +3,93 @@ title: Education Data Done Right
 description: "Education Data Done Right - A source for education data analysis, education system reporting and infrastructure."
 ---
 
+## Volume 2: Building on Each Others' Work
+
+
+<figure>
+<img src="/v2/full_cover.jpg" alt="drawing" width="300" align="center"/>
+</figure>
+
+Six data analysts with expertise in public education agencies across the country
+have teamed up to write a new volume for the Education Data Done Right (EDDR)
+series.
+
+Following the success of the first volume in this series, which covered missing
+elements critical to success in building data capacity in education agencies,
+this new volume showcases applied data science strategies and lessons learned in
+agencies across the country. New chapters explain how to document work to ensure
+continuity of operations, navigate data governance, and ensure transparency and
+reproducibility of agencies’ important work; how early warning systems can be
+useful in agencies’ work; and why self-awareness of how identities shape the
+work is one of the most important skills data analysts must have.
+
+Written by Dorothyjean Cratty, LaCole Foots, Wendy Geller, Jared Knowles, Justin
+Meyer, and Ellis Ott, this new volume covers education data science strategies
+and lessons with a perspective only possible from authors who’ve been in the
+trenches and gotten the work done. The series is intended for education agency
+data analysts, and data managers, strategists, and leaders seeking to improve
+how their agency operates. Many education agency data analysts come from a
+social science research background and the transition to work inside agencies
+can come with a lot of new challenges. This series is a guide through those
+challenges.
+
+
+
+#### Table of Contents
+
+<img src="/v2/chapter_1.png" alt="drawing" width="42" align="left"/>
+
+Introduction
+
+<img src="/v2/chapter_2.png" alt="drawing" width="42" align="left"/>
+
+Organizing and Documenting Analysis Projects
+
+<img src="/v2/chapter_3.png" alt="drawing" width="42" align="left"/>
+
+The Answers Are Within
+
+<img src="/v2/chapter_4.png" alt="drawing" width="42" align="left"/>
+
+Transparency: Helping Others See What the Data Truly Reveal
+
+<img src="/v2/chapter_5.png" alt="drawing" width="42" align="left"/>
+
+Data Governance
+
+<img src="/v2/chapter_6.png" alt="drawing" width="42" align="left"/>
+
+Early Warning Systems: A Consumer's Guide
+
+<img src="/v2/chapter_7.png" alt="drawing" width="42" align="left"/>
+
+Reflections and Conclusions
+
+
+#### Praise for Volume 1
+
+> It is the only field guide of its kind to address both the technical processes 
+of data collection and statistical analysis, as well as the practical (and political) 
+considerations of educational practitioners... making available best practices 
+that can be successfully implemented to improve rigorous educational research 
+whether your district is 100 students or 10,000. ~ Katherine Pitsch, Grand Rapids Public Schools
+
+
+> Anyone who is going to be leading a team in this area should be required 
+to read EDDR and should use the book to identify easy wins they can deliver to 
+improve the work coming out of their offices.~ William Buchanan, SAG Corporation,
+previously Fayette County Public Schools (FCPS) in Kentucky
+
+> It shows how to maximize your opportunities to engage within your organization 
+to build a strong political and technical foundation to maxmiize the feasibility 
+and impact of more advanced analytical work. ~ Dan Wick, EdOps
+
+> ... it is the first attempt to systematically examine the various aspects of 
+doing education data work from the perspecteives of practitioners for the purpose 
+of improving practices ...  I look forward to its sequels! ~ Bo Yan,
+Jefferson County Public Schools, Kentucky
+
+
 ### Buy the Book
 
 You can now get a [printed copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
