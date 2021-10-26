@@ -35,35 +35,65 @@ challenges.
 
 
 
-#### Table of Contents
+### Table of Contents
+
+<style>
+.toctext {
+  margin-top: 1.5em;
+  font-size: 22px
+  margin-bottom: 1rem;
+  margin-left: 4em;
+}
+</style>
 
 <img src="/v2/chapter_1.png" alt="drawing" width="42" align="left"/>
 
-Introduction
+
+<div class="toctext">Introduction</div>
+
+<br></br>
+
 
 <img src="/v2/chapter_2.png" alt="drawing" width="42" align="left"/>
 
-Organizing and Documenting Analysis Projects
+
+
+<div class="toctext">Organizing and Documenting Analysis Projects</div>
+
+<br></br>
+
 
 <img src="/v2/chapter_3.png" alt="drawing" width="42" align="left"/>
 
-The Answers Are Within
+
+
+<div class="toctext">The Answers Are Within</div>
+<br></br>
+
 
 <img src="/v2/chapter_4.png" alt="drawing" width="42" align="left"/>
 
-Transparency: Helping Others See What the Data Truly Reveal
+
+<div class="toctext">Transparency: Helping Others See What the Data Truly Reveal</div>
+<br></br>
 
 <img src="/v2/chapter_5.png" alt="drawing" width="42" align="left"/>
 
-Data Governance
+
+<div class="toctext">Data Governance</div>
+<br></br>
 
 <img src="/v2/chapter_6.png" alt="drawing" width="42" align="left"/>
 
-Early Warning Systems: A Consumer's Guide
+
+<div class="toctext">Early Warning Systems: A Consumer's Guide</div>
+<br></br>
 
 <img src="/v2/chapter_7.png" alt="drawing" width="42" align="left"/>
 
-Reflections and Conclusions
+
+<div class="toctext">Reflections and Conclusions</div>
+<br></br>
 
 
 #### Praise for Volume 1
