@@ -3,12 +3,77 @@ title: Education Data Done Right
 description: "Education Data Done Right - A source for education data analysis, education system reporting and infrastructure."
 ---
 
+<style>
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+    margin-bottom: 0;
+}
+.bs-callout code {
+    border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-default {
+    border-left-color: #777;
+}
+.bs-callout-default h4 {
+    color: #777;
+}
+.bs-callout-primary {
+    border-left-color: #428bca;
+}
+.bs-callout-primary h4 {
+    color: #428bca;
+}
+.bs-callout-success {
+    border-left-color: #5cb85c;
+}
+.bs-callout-success h4 {
+    color: #5cb85c;
+}
+.bs-callout-danger {
+    border-left-color: #d9534f;
+}
+.bs-callout-danger h4 {
+    color: #d9534f;
+}
+.bs-callout-warning {
+    border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+    color: #f0ad4e;
+}
+.bs-callout-info {
+    border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+    color: #5bc0de;
+}
+</style>
+
 ## Volume 2: Building on Each Others' Work
 
 
 <figure>
-<img src="/v2/full_cover.jpg" alt="drawing" width="300" align="center"/>
+<img src="/v2/full_cover.jpg" alt="drawing" width="500" align="center"/>
 </figure>
+
+<div class="bs-callout bs-callout-primary">
+  <h4>Buy the book!</h4>
+  Coming soon as an ebook, Kindle, and print.
+</div>
+
 
 Six data analysts with expertise in public education agencies across the country
 have teamed up to write a new volume for the Education Data Done Right (EDDR)
@@ -98,6 +163,20 @@ challenges.
 
 #### Praise for Volume 1
 
+
+<div class="bs-callout bs-callout-success">
+  <h4>Buy the book!</h4>
+  
+You can now get a [printed copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
+$15. 
+
+[Get the ebook from LeanPub.](https://leanpub.com/eddatadoneright/) 
+
+The ebook is always available 
+in multiple formats, DRM-free, for "pay what you can" with a suggested price of $15. 
+
+</div>
+
 > It is the only field guide of its kind to address both the technical processes 
 of data collection and statistical analysis, as well as the practical (and political) 
 considerations of educational practitioners... making available best practices 
@@ -119,14 +198,6 @@ doing education data work from the perspecteives of practitioners for the purpos
 of improving practices ...  I look forward to its sequels! ~ Bo Yan,
 Jefferson County Public Schools, Kentucky
 
-
-### Buy the Book
-
-You can now get a [printed copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
-$15. 
-
-[Get the ebook now.](https://leanpub.com/eddatadoneright/) The ebook is always available 
-in multiple formats, DRM-free, for "pay what you can" with a suggested price of $15. 
 
 ### About EDDR
 

@@ -7,11 +7,93 @@ keywords: ["About", "education data", "about data and analysis", "education data
 description: "Learn why education data analysis is useful in reporting on education systems and infrastructure and the benefits it has for educators, students and the public."
 ---
 
+<style>
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+    margin-bottom: 0;
+}
+.bs-callout code {
+    border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-default {
+    border-left-color: #777;
+}
+.bs-callout-default h4 {
+    color: #777;
+}
+.bs-callout-primary {
+    border-left-color: #428bca;
+}
+.bs-callout-primary h4 {
+    color: #428bca;
+}
+.bs-callout-success {
+    border-left-color: #5cb85c;
+}
+.bs-callout-success h4 {
+    color: #5cb85c;
+}
+.bs-callout-danger {
+    border-left-color: #d9534f;
+}
+.bs-callout-danger h4 {
+    color: #d9534f;
+}
+.bs-callout-warning {
+    border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+    color: #f0ad4e;
+}
+.bs-callout-info {
+    border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+    color: #5bc0de;
+}
+</style>
+
+
+
+
+
+
+<div class="bs-callout bs-callout-info">
+  <h4>Buy the books!</h4>
+  
+  <h5>Get Both as a Bundle</h5>
+  
+  Coming soon.
+  
+  <h5>Volume 2</h5>
+  Coming soon.
+
+<br></br>  
+<h5> Volume 1</h5>
+
+[In print](https://www.amazon.com/dp/1698152310/) Just 
+$15. 
+
+[DRM free ebook.](https://leanpub.com/eddatadoneright/) 
+</div>
+
+
 ## Volume 2
 
-
-
-### Excerpt: Introduction
+#### Excerpt: Introduction
 
 Or welcome in the first place for those of you just joining us. Either way, welcome!
 

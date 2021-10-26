@@ -11,7 +11,7 @@ chapters in this book to help us be better.
 
 ### Carl Frederick
 
-<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 40%;">
+<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 0%;">
     <img src="/carl_f.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 0%; width: auto;">
     </img>
 </div>
@@ -47,7 +47,7 @@ this woman has what it takes to do the really hard stuff. Just sayin'.
 
 ### Nick Maskell
 
-<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 40%;">
+<div style=" width: 100px; height: 100px; position: relative; overflow: hidden; border-radius: 00%;">
     <img src="/nick_m.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 0%; width: auto;">
     </img>
 </div>
