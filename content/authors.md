@@ -130,36 +130,34 @@ To follow his work, sign up for his monthly newsletter, The Civic Pulse!
     </img>
 </div>
 
-Currently, I am a performance manager for the Texas Education Agency where I
-serve the state by helping to manage the strategic initiatives that interact
-with the students, campuses and districts throughout the state.  I assist with
-aligning the agency's strategic plans and daily operations by creating and
-tracking metrics, briefing senior leadership on the progression of initiatives
-and making recommendations for tactical changes. My background in strategy,
-coupled with my data analysis skill set has afforded me this wonderful
-opportunity to impact such great work that's happening across the state.
 
-I completed my Master of Science in Public Policy and Management at Carnegie
-Mellon in 2014. Studying partially at their campus in Adelaide, Australia, I
-focused on my truest career passion which is the intersection of civic
-engagement and education. How do we teach kids about their role in government
-and how does that affect their engagement as adults? Finding answers to these
-questions is a core professional motivation and I hope to continue pursuing it
-in an academic setting at some point.
+LaCole Foots is a performance manager for the Texas Education Agency where she
+serves by helping to manage the strategic initiatives that interact with the
+students, campuses and districts throughout the state. She assists with aligning
+the agenc's strategic plans and daily operations by creating and tracking
+metrics, briefing senior leadership on the progression of initiatives, and
+making recommendations for tactical changes.
 
-I am also in the exploratory phase of launching my own consulting practice that
-will coach my clients on the interconnectedness of data strategy, program
+Completing her Master of Science in Public Policy and Management at Carnegie
+Mellon's Australian campus allowed her the chance to see compulsory voting in
+action and informed her truest career passion: the intersection of civic
+engagement and education. 'How do we teach kids about their role in government
+and how does that affect their engagement as adults?' Finding answers to these
+questions is a core professional motivation and she hopes to continue pursuing
+it in an academic setting at some point.
+
+Further, LaCole is in the exploratory phase of launching a consulting practice
+that will coach clients on the interconnectedness of data strategy, program
 evaluation, strategic planning and project management. As a certified Project
-Management Professional (PMP) and a former enterprise architect, I am focusing
-on the convergence of data systems and program evaluation along with the best
-way to use data to inform strategic and tactical maneuvering. The soup-to-nuts
+Management Professional (PMP) and a former enterprise architect, she focuses on
+the convergence of data systems and program evaluation along with the best way
+to use data to inform strategic and tactical maneuvering. The soup-to-nuts
 offering will help service-based industries (public sector and non profit)
 develop an idea into a well regimented and monitored program with a
 prioritization of disrupting inequitable systems.
 
-When not thinking of ways to absolutely change the world, you can find me hiking
-with my dog Cora or writing poetry about the beautiful Austin sky.
-
+When not thinking of ways to absolutely change the world, you can find LaCole
+hiking with her dog Cora or writing poetry about the beautiful Austin sky.
 
 ### Justin Meyer 
 
