@@ -1,5 +1,5 @@
 ---
-title: About the Book
+title: About the Books
 tags: ""
 keywords: ["About", "education data", "about data and analysis", "education data analysis",
 "education reporting", "education data systems", "education data infrastructure",
@@ -145,11 +145,19 @@ Just like in volume one, each chapter has been reviewed by at least one expert w
 
 To that end, this second volume has a few different contributors.  They cover some of the most thoughtful stuff we've encountered and they showcase how folks, just like you and us, are bringing rigor into their work on a daily basis.  From Justin Meyer's (Wisconsin) piece on how documenting work is a critical component to continuity of operations (and not making people crazy), to LaCole Foots' (Texas) discussion about the importance of self-reflection and awareness of how our identities shape our approach to our work, this volume brings together voices from across the nation.  
 
-Ellis Ott (Alaska) and DJ Cratty share a thoughtful conversation about transparency, reproducibility, and their place in our work, while Wendy and Jared provide a primer on how to navigate data governance work and the work it both necessitates and produces in an institution, offering some concrete steps you can take to get started. Jared outlines not just what an Early Warning System (EWS) is, but why it's useful and how you can build your own at your organization. 
+Ellis Ott (Alaska) and DJ share a thoughtful conversation about transparency, reproducibility, and their place in our work, while Wendy and Jared provide a primer on how to navigate data governance work and the work it both necessitates and produces in an institution, offering some concrete steps you can take to get started. Jared outlines not just what an Early Warning System (EWS) is, but why it's useful and how you can build your own at your organization. 
 
 Finally, we close this edition with some reflections on how the Pandemic has deeply underscored the very real, immediate, and ongoing need for careful data collection, management, and use.  As Wendy recently wrote in a proposal for how to leverage a portion of stimulus funds to future-proof some of Vermont's data infrastructure, [Howard Yonas, MD says, "making decisions without data is called guessing"](https://neurosurgery.uw.edu/news/videos/making-decisions-without-data-called-guessing) and guessing isn't good enough when it comes to the work we need to do to stabilize our education system. We need good data practices, systems, and products to meet the needs of our students and families amidst the emergency, not to mention onwards into the recovery process.
 
 So, with that, read on and welcome to the work! We're there with you, right by your side.
+
+### Suggested Citation
+
+
+Foots, LaCole; Ott, Ellis; Meyer, Justin; Geller, Wendy; Cratty, Dorothyjean; and Knowles, Jared. 2021. 
+Education Data Done Right Volume 2: Building on Each Others' Work. 
+Victoria. Leanpub. Available online: www.eddatadoneright.com
+
 
 ---
 
@@ -178,7 +186,7 @@ and return value to educators, students, and the public.
 
 Across the country hundreds of data scientists and analysts are working for thousands of education agencies trying to help schools, school leaders, and education systems as a whole function more effectively. The work they do is critical to everything from scheduling classes and evaluating programs, to managing enrollments, strategic planning, and making the laws that shape our public education system at large. 
 
-This book is for them. For their work. For the struggle. 
+This book is for them. For their work.
 
 Lots of pundits and researchers have ideas about how education data work should be done and who should do it. Many of their ideas are disseminated widely. But, there are far fewer places for education analysts themselves to share their ideas, to describe their challenges, to cover their efforts to do good science in the everyday. 
 

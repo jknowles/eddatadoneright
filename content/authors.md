@@ -11,7 +11,7 @@ description: "Meet the data analysts behind Education Data Done Right and view t
 ### Wendy I. Geller
 
 <div style=" width: 90px; height: 120px; position: relative; overflow: hidden; border-radius: 0%;">
-    <img src="/wendy_g.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 0%; width: auto;">
+    <img src="/WENDY_EDDRVII.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 0%; width: auto;">
     </img>
 </div>
 
@@ -48,7 +48,7 @@ whether in person or virtually.
 
 
 DJ conducts student-level research studies for and with state and district
-agencies and their stakeholders through DJC Applied Research. Included in these
+agencies and their stakeholders through [DJC Applied Research.](https://www.djcappliedresearch.com) Included in these
 are equity audits and research capacity audits. She helps states and districts
 develop and improve their researcher practitioner partnerships (RPPs), advises
 RPP grant programs on state and district needs, and trains university research
@@ -77,8 +77,8 @@ data, she conducted applied research with survey data for various countries and
 sectors as an economist at the World Bank. Journal publications include
 Economics of Transition and Economics of Education Review.
  
-To read some of DJ's EDDR-related work, check out her Duke statewide education
-research papers with copious data prep and analysis details.
+To read some of DJ's EDDR-related work, check out her [Duke statewide education
+research papers](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1589079) with copious data prep and analysis details.
 
 
 ### Jared Knowles
