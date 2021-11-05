@@ -10,10 +10,11 @@ description: "Meet the data analysts behind Education Data Done Right and view t
 
 ### Wendy I. Geller
 
-<div style=" width: 90px; height: 120px; position: relative; overflow: hidden; border-radius: 0%;">
-    <img src="/WENDY_EDDRVII.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: 0%; width: auto;">
+<div style=" width: 130px; height: 120px; position: relative; overflow: hidden; border-radius: 0%;">
+    <img src="/WENDY_EDDRVII.jpg" alt="team-member" style="display: inline; margin: 0 auto; height: 100%; margin-left: -15%; width: auto;">
     </img>
 </div>
+
 
 As the first Director of the Data Management & Analysis Division, at Vermont's
 Agency of Education, Wendy serves alongside her Work Family of Data Scientists
@@ -28,8 +29,8 @@ governance program and the business side of the DataOps continuum. They're a
 busy bunch!
 
 Her Ph.D. (2011) is in sociology from the [National University of Ireland
-Maynooth](www.nuim.ie) where she was a doctoral fellow at the [National Institute
-for Regional and Spatial Analysis](www.nuim.ie/nirsa). Her dissertation findings
+Maynooth](https://www.maynoothuniversity.ie/) where she was a doctoral fellow at the [National Institute
+for Regional and Spatial Analysis.](https://www.maynoothuniversity.ie/social-sciences-institute/nirsa) Her dissertation findings
 highlighted shifting demographics in education arenas and labor markets
 internationally, specific education orientations occurring across cultures, and
 presented thoughts on the social and spatial forces surrounding rural community
@@ -194,11 +195,9 @@ Not only this, but he has also served as a researcher for a non-profit education
 organization, including the full cycle of program evaluation from recruiting
 pilot and control schools and administering exams to conducting analysis and
 developing reports. As an independent contractor, he has conducted program
-evaluation analyses and produced Shiny dashboards. Not to mention, that he's
-kind of an all-around good guy.  Because he values supporting new analysts and
+evaluation analyses and produced Shiny dashboards. Because he values supporting new analysts and
 building community, he created [RProgramming.net](http://rprogramming.net/) and
-founded the MadR Madison R Meetup group which he led for three years. No flies
-on him!
+founded the MadR Madison R Meetup group which he led for three years. 
 
 ### Ellis Ott 
 
