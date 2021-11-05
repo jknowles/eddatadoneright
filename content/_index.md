@@ -71,7 +71,9 @@ description: "Education Data Done Right - A source for education data analysis, 
 
 <div class="bs-callout bs-callout-primary">
   <h4>Buy the book!</h4>
-  Coming soon as an ebook, Kindle, and print.
+  <a href="https://leanpub.com/educationdatadoneright_v2/">LeanPub (preferred)</a>
+  
+  Coming soon in Kindle and print.
 </div>
 
 
