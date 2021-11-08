@@ -73,7 +73,8 @@ description: "Education Data Done Right - A source for education data analysis, 
   <h4>Buy the book!</h4>
   <a href="https://leanpub.com/educationdatadoneright_v2/">LeanPub (preferred)</a>
   
-  Coming soon in Kindle and print.
+  Also available in <a href="https://www.amazon.com/dp/B09L59MK6Y/">Kindle</a> and now
+  <a href="https://www.amazon.com/dp/B09L51GFPN"> in print.</a>
 </div>
 
 
