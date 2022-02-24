@@ -69,15 +69,22 @@ description: "Education Data Done Right - A source for education data analysis, 
 <img src="/v2/full_cover.jpg" alt="drawing" width="500" align="center"/>
 </figure>
 
-<div class="bs-callout bs-callout-primary">
+<div class="bs-callout bs-callout-success">
   <h4>Buy the book!</h4>
   <a href="https://leanpub.com/educationdatadoneright_v2/">LeanPub (preferred)</a>
   
+  The ebook is always available from LeanPub in multiple formats, DRM-free, for "pay what you can" with a suggested price of $18.
+  
+  
   Also available in <a href="https://www.amazon.com/dp/B09L59MK6Y/">Kindle</a> and now
   <a href="https://www.amazon.com/dp/B09L51GFPN"> in print.</a>
+  
+  
+  <h5>Get Volume 1 and 2 bundled</h5>
+  <a href="https://leanpub.com/b/eddatadoneright2/">LeanPub</a>
+  
+  
 </div>
-
-
 
 
 ### Table of Contents
@@ -170,7 +177,7 @@ challenges.
 <div class="bs-callout bs-callout-success">
   <h4>Buy the book!</h4>
   
-You can now get a [printed copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
+You can now get a [printed or Kindle copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
 $15. 
 
 [Get the ebook from LeanPub.](https://leanpub.com/eddatadoneright/) 
