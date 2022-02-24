@@ -68,29 +68,6 @@ description: "Learn why education data analysis is useful in reporting on educat
 
 
 
-<div class="bs-callout bs-callout-info">
-  <h4>Buy the books!</h4>
-  
-  <h5>Get Both as a Bundle</h5>
-  
-  [LeanPub Bundle](https://leanpub.com/b/eddatadoneright)
-  
-  <h5>Volume 2</h5>
-  
-  [In print](https://www.amazon.com/Education-Data-Done-Right-Building/dp/B09L51GFPN) 
-  Just $18.
-  
-  [DRM free ebook.](https://leanpub.com/educationdatadoneright_v2/)
-
-<br></br>  
-<h5> Volume 1</h5>
-
-[In print](https://www.amazon.com/dp/1698152310/) Just 
-$15. 
-
-[DRM free ebook.](https://leanpub.com/eddatadoneright/) 
-</div>
-
 
 <div class="bs-callout bs-callout-success">
 <h4>Buy Volume 2!</h4>
@@ -114,7 +91,7 @@ The ebook is always available
 in multiple formats, DRM-free, for "pay what you can" with a suggested price of $15. 
 
 
-<h5>Get Volume 1 and 2 bundled</h5>
+<h4>Get Volume 1 and 2 bundled</h4>
   <a href="https://leanpub.com/b/eddatadoneright2/">LeanPub</a>
   
 
