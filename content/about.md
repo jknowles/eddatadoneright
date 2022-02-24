@@ -76,10 +76,11 @@ description: "Learn why education data analysis is useful in reporting on educat
   
   <h5>Get Both as a Bundle</h5>
   
-  Coming soon.
+  [LeanPub Bundle](https://leanpub.com/b/eddatadoneright)
   
   <h5>Volume 2</h5>
-  Coming soon.
+  [In print](https://www.amazon.com/Education-Data-Done-Right-Building/dp/B09L51GFPN) Just $18.
+  [DRM free ebook.](https://leanpub.com/educationdatadoneright_v2/)
 
 <br></br>  
 <h5> Volume 1</h5>
@@ -101,9 +102,7 @@ It's been quite eventful since EDDR launched with [Volume I's Lessons from the T
 
 Over the last two years, we've heard from many of you, our comrades and our colleagues in data science for the public good.  Thank you for your kind words, your incisive, spot-on feedback, and your sharing our excitement about giving this kind of work the attention we think it deserves.  
 
-We're back in this volume to bring together some truly fantastic, careful, meaningful work that's been happening across this field through the creativity, commitment to getting it right, and diligence of some really talented folks. Volume II brings together three new voices and would have included more, but the requirements of the pandemic being what they were, we had a lot of great contributors who just didn't have the time. We hope very much that they'll be able to contribute to future releases when they're not stretched so thinly. We also thank them for all that they did and continue to do for the students and families they support. It matters.  
-
-So, with the pandemic shining a bright light on the importance of good data and good data work when you need it, we feel there couldn't be a better time than now to showcase some of just that work taking place across the nation. 
+We're back in this volume to bring together some truly fantastic, careful, meaningful work that's been happening across this field through the creativity, commitment to getting it right, and diligence of some really talented folks. Volume II adds three new voices to our returning authors from Volume I. Their contributions showcase some of the best  work taking place across the nation. 
 
 It's work that's not coming from the hallowed halls of the academy, but from the quotidien cubicles (or remote work spaces set up rapidly in our homes after the pandemic hit) where we, any of us, report for duty each day.  But before we get too far into what this volume will share, let's recap why you should bother to read this book in the first place. 
 
@@ -150,6 +149,68 @@ Ellis Ott (Alaska) and DJ share a thoughtful conversation about transparency, re
 Finally, we close this edition with some reflections on how the Pandemic has deeply underscored the very real, immediate, and ongoing need for careful data collection, management, and use.  As Wendy recently wrote in a proposal for how to leverage a portion of stimulus funds to future-proof some of Vermont's data infrastructure, [Howard Yonas, MD says, "making decisions without data is called guessing"](https://neurosurgery.uw.edu/news/videos/making-decisions-without-data-called-guessing) and guessing isn't good enough when it comes to the work we need to do to stabilize our education system. We need good data practices, systems, and products to meet the needs of our students and families amidst the emergency, not to mention onwards into the recovery process.
 
 So, with that, read on and welcome to the work! We're there with you, right by your side.
+
+
+### Table of Contents
+
+<style>
+.toctext {
+  margin-top: 1.5em;
+  font-size: 22px
+  margin-bottom: 1rem;
+  margin-left: 4em;
+}
+</style>
+
+<img src="/v2/chapter_1.png" alt="drawing" width="42" align="left"/>
+
+
+<div class="toctext">Introduction</div>
+
+<br></br>
+
+
+<img src="/v2/chapter_2.png" alt="drawing" width="42" align="left"/>
+
+
+
+<div class="toctext">Organizing and Documenting Analysis Projects</div>
+
+<br></br>
+
+
+<img src="/v2/chapter_3.png" alt="drawing" width="42" align="left"/>
+
+
+
+<div class="toctext">The Answers Are Within</div>
+<br></br>
+
+
+<img src="/v2/chapter_4.png" alt="drawing" width="42" align="left"/>
+
+
+<div class="toctext">Transparency: Helping Others See What the Data Truly Reveal</div>
+<br></br>
+
+<img src="/v2/chapter_5.png" alt="drawing" width="42" align="left"/>
+
+
+<div class="toctext">Data Governance</div>
+<br></br>
+
+<img src="/v2/chapter_6.png" alt="drawing" width="42" align="left"/>
+
+
+<div class="toctext">Early Warning Systems: A Consumer's Guide</div>
+<br></br>
+
+<img src="/v2/chapter_7.png" alt="drawing" width="42" align="left"/>
+
+
+<div class="toctext">Reflections and Conclusions</div>
+<br></br>
+
 
 ### Suggested Citation
 

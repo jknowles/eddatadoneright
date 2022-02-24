@@ -7,6 +7,12 @@ categories: []
 tags: []
 ---
 
+
+In EDDR Volume 2 we provide an introduction to data governance in chapter 5. 
+This post summarizes one part of that chapter by describing the three data 
+governance frameworks. 
+
+
 <style>
 ul li {
   list-style: square;
@@ -17,10 +23,6 @@ strong {
   font-weight:bold;
 }
 </style>
-
-In EDDR Volume 2 we provide an introduction to data governance in chapter 5. 
-This post summarizes one part of that chapter by describing the three data 
-governance frameworks. 
 
 
 ### Lifecycle
