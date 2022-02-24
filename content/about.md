@@ -68,9 +68,6 @@ description: "Learn why education data analysis is useful in reporting on educat
 
 
 
-
-
-
 <div class="bs-callout bs-callout-info">
   <h4>Buy the books!</h4>
   
@@ -92,6 +89,35 @@ description: "Learn why education data analysis is useful in reporting on educat
 $15. 
 
 [DRM free ebook.](https://leanpub.com/eddatadoneright/) 
+</div>
+
+
+<div class="bs-callout bs-callout-success">
+<h4>Buy Volume 2!</h4>
+  <a href="https://leanpub.com/educationdatadoneright_v2/">LeanPub (preferred)</a>
+  
+  The ebook is always available from LeanPub in multiple formats, DRM-free, for "pay what you can" with a suggested price of $18.
+  
+  Also available in <a href="https://www.amazon.com/dp/B09L59MK6Y/">Kindle</a> and now
+  <a href="https://www.amazon.com/dp/B09L51GFPN"> in print.</a>
+  
+  
+
+  <h4>Buy Volume 1!</h4>
+  
+You can now get a [printed or Kindle copy of the book on Amazon.](https://www.amazon.com/dp/1698152310/) Just 
+$15. 
+
+[Get the ebook from LeanPub.](https://leanpub.com/eddatadoneright/) 
+
+The ebook is always available 
+in multiple formats, DRM-free, for "pay what you can" with a suggested price of $15. 
+
+
+<h5>Get Volume 1 and 2 bundled</h5>
+  <a href="https://leanpub.com/b/eddatadoneright2/">LeanPub</a>
+  
+
 </div>
 
 
