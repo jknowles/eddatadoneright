@@ -79,7 +79,10 @@ description: "Learn why education data analysis is useful in reporting on educat
   [LeanPub Bundle](https://leanpub.com/b/eddatadoneright)
   
   <h5>Volume 2</h5>
-  [In print](https://www.amazon.com/Education-Data-Done-Right-Building/dp/B09L51GFPN) Just $18.
+  
+  [In print](https://www.amazon.com/Education-Data-Done-Right-Building/dp/B09L51GFPN) 
+  Just $18.
+  
   [DRM free ebook.](https://leanpub.com/educationdatadoneright_v2/)
 
 <br></br>  
